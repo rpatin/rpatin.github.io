@@ -1,0 +1,13 @@
+---
+title: "Biography"
+output: 
+  html_document:
+   logo: img/logo_AO.png
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+I am a postdoctoral researcher at  [Agrocampus Ouest](https://www.agrocampus-ouest.fr/) in the unity EH and this is my biography.

@@ -1,0 +1,29 @@
+---
+title: "Rémi Patin"
+output: 
+  html_document:
+   logo: img/logo_AO.png
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+
+<img src="img/photo_remi_patin.JPG" alt="RP" width = "280px" align="right"> </img>
+  
+  
+I am a postdoctoral researcher at  [Agrocampus Ouest](https://www.agrocampus-ouest.fr/) in the unity EH.
+
+## Contact information
+
+- <i class="fas fa-map-marker"></i> Équipe EH, Agrocampus Ouest, Institut Agro </br>
+  65, rue de Saint-Brieuc</br>
+  CS 84215</br>
+  35042 Rennes Cedex</br>
+  
+- <i class="fa fa-phone"></i> +33 (0)0 00 00 00 00
+
+- <i class="fa fa-at"></i> <a href="mailto:remi.patin@agrocampus-ouest.fr
+">remi [dot] patin  [at] agrocampus-ouest [dot] fr</a>
